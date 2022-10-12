@@ -1,0 +1,18 @@
+h1{
+  color: #4c457d;
+  font-size:250%
+}
+P{
+  font-family: "cursive";
+  text-indent: 20px;
+  margin-left: 10px;
+}
+#content{
+  background-color: #f2ebf5;
+  width: 700px;
+  min-height:200px;
+  padding: 20px;
+  margin: 20px;
+  border-style: dashed;
+  font-size: 14px;
+}
