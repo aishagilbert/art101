@@ -1,5 +1,5 @@
 h1{
-  color: #171717;
+  color: #171c18;
   font-size:200%
 }
 P{
@@ -8,11 +8,11 @@ P{
   margin-left: 10px;
 }
 #content{
-  background-color: #ffb8cb;
+  background-color: #45d171;
   width: 700px;
   min-height:200px;
   padding: 20px;
   margin: 20px;
-  border-style: solid;
+  border-style: double;
   font-size: 12px;
 }
