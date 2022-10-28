@@ -1,0 +1,18 @@
+h1{
+  color: #171c18;
+  font-size:200%
+}
+P{
+  font-family: "verdana";
+  text-indent: 20px;
+  margin-left: 10px;
+}
+#content{
+  background-color: #45d171;
+  width: 700px;
+  min-height:200px;
+  padding: 20px;
+  margin: 20px;
+  border-style: double;
+  font-size: 12px;
+}
