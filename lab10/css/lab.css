@@ -1,0 +1,16 @@
+label, input, button {
+  display:block;
+}
+
+body {
+  background-color: #b2cfcd;
+}
+
+#content{
+  width: 700px;
+  min-height:200px;
+  padding: 5px;
+  margin: 10px;
+  border-style: solid;
+  font-size: 12px;
+}
