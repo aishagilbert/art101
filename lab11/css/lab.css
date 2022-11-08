@@ -1,0 +1,17 @@
+div {
+  width: 30%;
+  height: 30%;
+  background-color: pink;
+}
+
+.special {
+  background-color: green;
+}
+
+.kindofspecial {
+  background-color: orange;
+}
+
+.veryspecial {
+  background-color: blue;
+}
