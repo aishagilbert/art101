@@ -1,0 +1,20 @@
+h1{
+  color: #171c18;
+  font-size:200%
+}
+P{
+  font-family: "verdana";
+  text-indent: 20px;
+  margin-left: 10px;
+}
+#content{
+  background-color: #ffb3d5;
+  background: radial-gradient(circle, #fffafd 0%, #ffb3d5 100%);
+  width: 700px;
+  min-height:200px;
+  padding: 20px;
+  margin: 20px;
+  border-style: double;
+  border-radius: 20px;
+  font-size: 12px;
+}
