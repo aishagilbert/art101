@@ -1,15 +1,16 @@
 h1{
-  color: #171c18;
+  color: white;
   font-size:200%
 }
 P{
   font-family: "verdana";
   text-indent: 20px;
   margin-left: 10px;
+  color: white;
 }
 #content{
   background-color: #ffb3d5;
-  background: radial-gradient(circle, #fffafd 0%, #ffb3d5 100%);
+  background: radial-gradient(circle, #28bd68 0%, #16703d 100%);
   width: 700px;
   min-height:200px;
   padding: 20px;
@@ -17,4 +18,5 @@ P{
   border-style: double;
   border-radius: 20px;
   font-size: 12px;
+  color: white;
 }

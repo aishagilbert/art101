@@ -8,8 +8,8 @@ var outputEl = document.getElementById("output");
 var new1El = document.createElement("p");
 var new2El = document.createElement("p");
 
-new1El.innerHTML = "hi how are you";
-new2El.innerHTML = "Nice to meet you";
+new1El.innerHTML = "hi, how are you?";
+new2El.innerHTML = "Nice to meet you!";
 
 outputEl.appendChild(new1El);
 outputEl.appendChild(new2El);
